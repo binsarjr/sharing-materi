@@ -1,0 +1,1 @@
+Komponen adalah kumpulan kode atau struktur yang kita inginkan menjadi satu
