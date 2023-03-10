@@ -2,10 +2,11 @@
 	"nodes":[
 		{"type":"group","id":"eac4536ede6e6a08","x":-520,"y":-400,"width":1980,"height":760,"label":"Dasar"},
 		{"type":"group","id":"43c6e28680b8542e","x":-520,"y":-400,"width":1980,"height":760,"label":"Dasar"},
-		{"id":"59e2d63b0ed25d0c","x":-520,"y":480,"width":1980,"height":680,"type":"group","label":"Lanjutan"},
+		{"type":"group","id":"59e2d63b0ed25d0c","x":-520,"y":480,"width":1980,"height":680,"label":"Lanjutan"},
 		{"type":"file","file":"HTML & CSS/Apa itu HTML?.md","id":"334933923cce901b","x":-440,"y":-300,"width":400,"height":400},
 		{"type":"file","file":"HTML & CSS/Apa itu CSS?.md","id":"488a2f2f3d22be1f","x":20,"y":-300,"width":400,"height":400},
-		{"id":"8c04a350eb13f00c","x":-440,"y":560,"width":400,"height":400,"type":"file","file":"Git/Apa itu GIT?.md"}
+		{"type":"file","file":"Git/Apa itu GIT?.md","id":"8c04a350eb13f00c","x":-440,"y":560,"width":400,"height":400},
+		{"id":"e9ba6f3463362310","x":1960,"y":-200,"width":2160,"height":558,"type":"link","url":"https://preview.colorlib.com/theme/knuford/#"}
 	],
 	"edges":[
 		{"id":"c53170d11518f0fe","fromNode":"334933923cce901b","fromSide":"right","toNode":"488a2f2f3d22be1f","toSide":"left"}
