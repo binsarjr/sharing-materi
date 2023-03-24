@@ -19,7 +19,7 @@ Perintah cd digunakan untuk berpindah antar direktori pada sistem operasi Linux.
 cd [nama_direktori]
 ```
 
-	Untuk berpindah ke direktori yang berada di dalam direktori saat ini, pengguna dapat menggunakan tanda slash (/) diikuti dengan nama direktori. Berikut ini adalah contoh perintah cd untuk berpindah ke direktori yang berada di dalam direktori saat ini:
+Untuk berpindah ke direktori yang berada di dalam direktori saat ini, pengguna dapat menggunakan tanda slash (/) diikuti dengan nama direktori. Berikut ini adalah contoh perintah cd untuk berpindah ke direktori yang berada di dalam direktori saat ini:
 
 ```bash
 cd /nama_direktori
