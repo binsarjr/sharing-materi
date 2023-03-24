@@ -40,3 +40,6 @@ Berikut ini beberapa variasi penggunaan perintah cd di terminal beserta penjelas
 6. cd / : Perintah "cd /" akan membawa pengguna langsung ke direktori root dari sistem file Linux. Ini berguna jika pengguna ingin menjelajahi seluruh struktur direktori dari sistem file Linux.
    
 7. cd ~/Desktop : Perintah "cd ~/Desktop" akan membawa pengguna langsung ke direktori Desktop dari direktori home mereka. Ini berguna jika pengguna ingin dengan cepat mengakses file yang berada di Desktop.
+
+[![asciicast](https://asciinema.org/a/569899.svg)](https://asciinema.org/a/569899)
+
