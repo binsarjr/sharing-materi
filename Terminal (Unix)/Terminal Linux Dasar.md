@@ -8,9 +8,8 @@
 1.  [[Pengenalan Terminal Linux]]
 	-   Apa itu Terminal Linux
 	-   Fungsi Terminal Linux
-	-   Cara membuka Terminal Linux
 
-2.  Perintah Dasar Terminal Linux
+2.  [[Perintah Dasar Terminal Linux]]
 	-   cd (change directory)
 	-   ls (list)
 	-   mkdir (make directory)
@@ -26,7 +25,7 @@
 	-   Menggunakan wildcard dalam perintah
 	-   Menggabungkan beberapa perintah
 
-Aktivitas:
+###### Aktivitas:
 
 1.  Praktek langsung dengan perintah-perintah dasar terminal Linux.
 2.  Tugas membuat beberapa direktori dan file, memindahkan dan menghapus file, serta mengubah hak akses file menggunakan perintah-perintah yang telah dipelajari.

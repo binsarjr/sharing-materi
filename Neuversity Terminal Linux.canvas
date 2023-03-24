@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"file","file":"Terminal (Unix)/Terminal Linux Dasar.md","id":"a3e23f0f9b2ff533","x":-236,"y":-102,"width":716,"height":982},
+		{"type":"file","file":"Terminal (Unix)/Pengenalan Terminal Linux.md","id":"d304a4122ffce0d8","x":600,"y":-102,"width":1080,"height":982}
+	],
+	"edges":[
+		{"id":"2c6b5940dfb9631f","fromNode":"a3e23f0f9b2ff533","fromSide":"right","toNode":"d304a4122ffce0d8","toSide":"left"}
+	]
+}
