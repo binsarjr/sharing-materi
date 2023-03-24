@@ -1,7 +1,7 @@
 Beberapa Perintah yang akan kita pelajari di modul ini:
-- mkdir (make directory)  
 - cd (change directory)
 - ls (list)
+- mkdir (make directory)
 - touch (membuat file kosong)
 - cat (melihat isi file)
 - mv (memindahkan file atau direktori)
