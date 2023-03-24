@@ -6,7 +6,7 @@
 
 ## Konten:
 1.  Pengenalan Terminal Linux
-	-   Apa itu Terminal Linux
+	-   [[Apa itu Terminal Linux]]
 	-   Fungsi Terminal Linux
 	-   Cara membuka Terminal Linux
 
