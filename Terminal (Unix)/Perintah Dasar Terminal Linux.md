@@ -1,0 +1,10 @@
+Beberapa Perintah yang akan kita pelajari di modul ini:
+-   cd (change directory)
+-   ls (list)
+-   mkdir (make directory)
+-   touch (membuat file kosong)
+-   cat (melihat isi file)
+-   mv (memindahkan file atau direktori)
+-   cp (mengcopy file atau direktori)
+-   rm (menghapus file atau direktori)
+-   chmod (mengubah hak akses file)
