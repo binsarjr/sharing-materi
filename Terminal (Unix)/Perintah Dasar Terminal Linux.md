@@ -43,3 +43,4 @@ Berikut ini beberapa variasi penggunaan perintah cd di terminal beserta penjelas
 
 [![asciicast](https://asciinema.org/a/569899.svg)](https://asciinema.org/a/569899)
 
+### ls (list)
