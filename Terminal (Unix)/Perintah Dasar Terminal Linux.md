@@ -44,3 +44,68 @@ Berikut ini beberapa variasi penggunaan perintah cd di terminal beserta penjelas
 [![asciicast](https://asciinema.org/a/569899.svg)](https://asciinema.org/a/569899)
 
 ### ls (list)
+Perintah ls adalah salah satu perintah dasar di terminal Linux yang sering digunakan untuk melihat isi dari sebuah direktori.
+
+Perintah ls adalah salah satu perintah dasar yang sangat berguna untuk menavigasi di dalam direktori pada sistem operasi Linux. Pengguna Linux dapat menggunakan perintah ini untuk melihat dan mengelola file dan direktori dengan mudah dan efisien.
+
+Berikut adalah beberapa penjelasan mengenai perintah ls di terminal Linux:
+
+1.  Menampilkan Isi Direktori Perintah ls digunakan untuk menampilkan isi dari sebuah direktori. Secara default, perintah ini akan menampilkan semua file dan direktori pada direktori aktif.
+    
+2.  Menggunakan Opsi Perintah ls memiliki banyak opsi yang dapat digunakan untuk menampilkan informasi lebih detail mengenai isi dari sebuah direktori. Beberapa opsi yang sering digunakan adalah:
+    
+
+-   -l : Menampilkan informasi secara rinci mengenai setiap file dan direktori seperti pemilik, grup, hak akses, ukuran, dan tanggal modifikasi.
+-   -a : Menampilkan semua file, termasuk file yang dianggap tersembunyi. File yang dianggap tersembunyi diawali dengan titik (.) pada namanya.
+-   -h : Menampilkan ukuran file dalam format yang mudah dibaca manusia.
+
+3.  Menggabungkan Opsi Opsi pada perintah ls dapat digabungkan untuk menampilkan informasi yang lebih spesifik. Sebagai contoh, perintah "ls -alh" akan menampilkan semua file dan direktori, termasuk yang tersembunyi, dengan informasi rinci yang ditampilkan dalam format ukuran yang mudah dibaca manusia.
+    
+4.  Menggunakan Argumen Perintah ls dapat digunakan dengan argumen untuk menampilkan isi dari direktori tertentu. Sebagai contoh, perintah "ls /var/log" akan menampilkan semua file dan direktori pada direktori log.
+    
+5.  Menggunakan Argumen dan Opsi pada Perintah ls dapat digabungkan. Sebagai contoh, perintah "ls -a /var/log" akan menampilkan semua file dan direktori pada direktori log beserta file tersembunyinya.
+    
+
+
+Berikut adalah tutorial pembelajaran mengenai perintah ls di terminal Linux:
+
+1. Menampilkan Isi Direktori Untuk menampilkan isi dari direktori aktif, cukup ketikkan perintah berikut di terminal:
+```bash
+ls
+```
+Perintah ini akan menampilkan semua file dan direktori yang ada pada direktori aktif.
+
+2. Menggunakan Opsi Untuk menggunakan opsi pada perintah ls, cukup tambahkan opsi yang diinginkan setelah perintah ls. Sebagai contoh, untuk menampilkan informasi rinci mengenai setiap file dan direktori pada direktori aktif, ketikkan perintah berikut di terminal:
+```bash
+ls -l
+```
+Perintah ini akan menampilkan informasi secara rinci mengenai setiap file dan direktori pada direktori aktif.
+
+Untuk menampilkan semua file, termasuk file yang dianggap tersembunyi, gunakan opsi -a. Sebagai contoh, untuk menampilkan semua file dan direktori pada direktori aktif, termasuk yang tersembunyi, ketikkan perintah berikut di terminal:
+```bash
+ls -a
+```
+Perintah ini akan menampilkan semua file dan direktori pada direktori aktif, termasuk yang tersembunyi.
+
+Untuk menampilkan ukuran file dalam format yang mudah dibaca manusia, gunakan opsi -h. Sebagai contoh, untuk menampilkan ukuran file dan direktori pada direktori aktif dalam format yang mudah dibaca manusia, ketikkan perintah berikut di terminal:
+```bash
+ls -h
+```
+
+Perintah ini akan menampilkan ukuran file dan direktori pada direktori aktif dalam format yang mudah dibaca manusia.
+
+3. Menggabungkan Opsi Opsi pada perintah ls dapat digabungkan untuk menampilkan informasi yang lebih spesifik. Sebagai contoh, untuk menampilkan semua file dan direktori, termasuk yang tersembunyi, dengan informasi rinci yang ditampilkan dalam format ukuran yang mudah dibaca manusia, ketikkan perintah berikut di terminal:
+```bash
+ls -lah
+```
+
+4. Menggunakan Argumen
+   Untuk menampilkan isi dari direktori tertentu, tambahkan argumen direktori setelah perintah ls. Sebagai contoh, untuk menampilkan semua file dan direktori pada direktori /var/log, ketikkan perintah berikut di terminal:
+```bash
+ls /var/log
+```
+5. Menggunakan Argumen dan Opsi
+   Untuk menampilkan isi dari direktori, tambahkan opsi setelah perintah ls, tambahkan argumen direktori setelah opsi. Sebagai contoh, untuk menampilkan semua file dan direktori pada direktori /var/log dan tampilkan juga file tersembunyi, ketikkan perintah berikut di terminal:
+```bash
+ls -a /var/log
+```
