@@ -109,3 +109,7 @@ ls /var/log
 ```bash
 ls -a /var/log
 ```
+
+[![asciicast](https://asciinema.org/a/569910.svg)](https://asciinema.org/a/569910)
+
+### mkdir (make directory)
