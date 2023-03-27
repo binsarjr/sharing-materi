@@ -7,7 +7,6 @@ Beberapa Perintah yang akan kita pelajari di modul ini:
 - mv (memindahkan file atau direktori)
 - cp (mengcopy file atau direktori)
 - rm (menghapus file atau direktori)
-- chmod (mengubah hak akses file)
 
 
 ### cd (change directory)
