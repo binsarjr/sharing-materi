@@ -119,7 +119,7 @@ mkdir [opsi] nama_direktori
 
 Berikut adalah beberapa opsi umum yang dapat digunakan dengan perintah `mkdir`:
 
--   `-p`: Membuat direktori induk jika belum ada. Misalnya, jika Anda ingin membuat direktori bernama `dir1/dir2/dir3`, Anda dapat menggunakan perintah `mkdir -p dir1/dir2/dir3`.
+-   `-p`: Membuat direktori induk jika belum ada. Misalnya, jika Anda ingin membuat direktori bernama `neuversity/terminal/dasar`, Anda dapat menggunakan perintah `mkdir -p neuversity/terminal/dasar`.
 
 Contoh penggunaan: Jika Anda ingin membuat direktori baru bernama "belajar_linux", Anda dapat mengetikkan perintah berikut di terminal:
 ```bash
