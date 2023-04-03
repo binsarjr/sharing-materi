@@ -6,5 +6,5 @@
 6.  Tampilkan isi dari file `catatan.txt` menggunakan perintah `cat`.
 7. urutkan isi file `catatan.txt`
 8. urutkan isi file  `catatan.txt` dan simpan ke file baru dengan nama `catatan_urut.txt`
-9.  Hapus file `catatan.txt` menggunakan perintah `rm`.
+9.  Hapus file `catatan.txt` dan `catatan_urut.txt` menggunakan perintah `rm` dan wildcard.
 10.  Hapus direktori `praktikum` beserta seluruh isi di dalamnya menggunakan perintah `rm -r`.
