@@ -149,7 +149,7 @@ touch [opsi] nama_file
 Berikut adalah beberapa opsi umum yang dapat digunakan dengan perintah `touch`:
 
 -   `-a`: Mengubah hanya waktu akses file.
--   `-m`: Mengubah hanya waktu modifikasi file.
+-   `-m`: Mengubah hanya waktu modifikasi/edit file.
 -   `-c`: Hanya membuat file jika file tersebut belum ada.
 
 Contoh Penggunaan
