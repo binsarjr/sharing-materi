@@ -18,7 +18,6 @@
 	-   mv (memindahkan file atau direktori)
 	-   cp (mengcopy file atau direktori)
 	-   rm (menghapus file atau direktori)
-	-   chmod (mengubah hak akses file)
 
 3.  Perintah Dasar pada Terminal Linux Lanjutan
 	-   Menggunakan opsi dalam perintah
