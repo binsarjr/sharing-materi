@@ -1,9 +1,15 @@
 {
 	"nodes":[
 		{"type":"file","file":"Terminal (Unix)/Terminal Linux Dasar.md","id":"a3e23f0f9b2ff533","x":-236,"y":-102,"width":716,"height":982},
-		{"type":"file","file":"Terminal (Unix)/Pengenalan Terminal Linux.md","id":"d304a4122ffce0d8","x":600,"y":-102,"width":1080,"height":982}
+		{"type":"file","file":"Terminal (Unix)/Pengenalan Terminal Linux.md","id":"d304a4122ffce0d8","x":560,"y":-102,"width":1080,"height":982},
+		{"type":"file","file":"Terminal (Unix)/Perintah Dasar Terminal Linux.md","id":"691c4852a6d0dec1","x":1760,"y":-83,"width":962,"height":944},
+		{"id":"f3435fc538583ccb","x":1760,"y":960,"width":962,"height":480,"type":"file","file":"Terminal (Unix)/Wildcard Terminal.md"},
+		{"id":"09d22e08f8680d26","x":640,"y":1000,"width":920,"height":440,"type":"file","file":"Terminal (Unix)/Soal.md"}
 	],
 	"edges":[
-		{"id":"2c6b5940dfb9631f","fromNode":"a3e23f0f9b2ff533","fromSide":"right","toNode":"d304a4122ffce0d8","toSide":"left"}
+		{"id":"2c6b5940dfb9631f","fromNode":"a3e23f0f9b2ff533","fromSide":"right","toNode":"d304a4122ffce0d8","toSide":"left"},
+		{"id":"8a3fa403652880ce","fromNode":"d304a4122ffce0d8","fromSide":"right","toNode":"691c4852a6d0dec1","toSide":"left"},
+		{"id":"e1345a132b34543e","fromNode":"691c4852a6d0dec1","fromSide":"bottom","toNode":"f3435fc538583ccb","toSide":"top"},
+		{"id":"dcef0b12d0a9bfe2","fromNode":"f3435fc538583ccb","fromSide":"left","toNode":"09d22e08f8680d26","toSide":"right"}
 	]
 }
