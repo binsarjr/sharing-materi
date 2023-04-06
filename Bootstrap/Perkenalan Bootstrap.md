@@ -1,4 +1,4 @@
-Bootstrap adalah kerangka kerja front-end (front-end framework) yang digunakan untuk mempercepat dan memudahkan pembangunan tampilan website yang responsif dan menarik.
+inBootstrap adalah kerangka kerja front-end (front-end framework) yang digunakan untuk mempercepat dan memudahkan pembangunan tampilan website yang responsif dan menarik.
 
 Bootstrap dikembangkan oleh Twitter dan dirilis sebagai proyek open source. Bootstrap menggunakan HTML, CSS, dan JavaScript untuk mengatur tampilan dan interaksi antara pengguna dan website.
 
