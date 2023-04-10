@@ -10,7 +10,7 @@ Selain itu, Bootstrap juga menawarkan kemudahan dalam mengatur tampilan website 
 1. Grid System: Bootstrap menyediakan sistem grid yang memungkinkan pengguna untuk membuat layout halaman web yang responsif dengan mudah.
 2. Komponen Siap Pakai: Bootstrap menyediakan banyak komponen siap pakai seperti form, button, navbar, card, alert, dan masih banyak lagi yang memudahkan developer dalam membangun website.
 3. Responsif Web Design: Bootstrap memungkinkan website yang dibangun dengan Bootstrap dapat menyesuaikan diri dengan ukuran layar pengguna, sehingga website terlihat baik di berbagai perangkat dan ukuran layar.
-4. Tema Siap Pakai: Bootstrap menyediakan tema siap pakai yang memudahkan pengguna dalam mengatur tampilan website dan membuatnya lebih menarik.
+4. Template Siap Pakai: Bootstrap menyediakan tema siap pakai yang memudahkan pengguna dalam mengatur tampilan website dan membuatnya lebih menarik.
 5. Dukungan Browser: Bootstrap dapat berjalan pada berbagai browser populer seperti Chrome, Firefox, Safari, dan Internet Explorer.
 
 
